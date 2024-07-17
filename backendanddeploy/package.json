@@ -4,7 +4,7 @@
   "description": "a basic to deploy",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node backendanddeploy/index.js"
   },
   "keywords": [
     "node",
